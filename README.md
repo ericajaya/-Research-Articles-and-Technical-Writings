@@ -9,5 +9,5 @@ IOT
 Biomimicry 
 Edge computing 
 Reverse engineering 
-
+  
 https://cmb.academia.edu/ericajayasundera
